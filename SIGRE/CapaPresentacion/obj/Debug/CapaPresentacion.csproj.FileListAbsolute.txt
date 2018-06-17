@@ -13,3 +13,6 @@ C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.Form
 C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.Form_Report_Beginning.resources
 C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.Form_Report_Month.resources
 C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.Form_Report_Year.resources
+C:\Users\DEY\Documents\Proyecto SIGRE\SIGRE\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\DEY\Documents\Proyecto SIGRE\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\DEY\Documents\Proyecto SIGRE\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
