@@ -1,0 +1,15 @@
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.Form_Beginning.resources
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.Form_Into_Data_Product_Beginnig.resources
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.Form_Into_Sample_Product.resources
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.Form_List_Product_Into.resources
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.Form_Report_Beginning.resources
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.Form_Report_Month.resources
+C:\Users\DEY\source\repos\SIGRE\CapaPresentacion\obj\Debug\CapaPresentacion.Form_Report_Year.resources
