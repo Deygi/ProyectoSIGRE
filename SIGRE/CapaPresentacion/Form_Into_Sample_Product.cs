@@ -7,7 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using CapaEntidades;
+using CapaNegocio;
 namespace CapaPresentacion
 {
     public partial class Form_Into_Sample_Product : Form

@@ -1,0 +1,7 @@
+C:\Users\DEY\Documents\Proyecto SIGRE\SIGRE\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\DEY\Documents\Proyecto SIGRE\SIGRE\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\DEY\Documents\Proyecto SIGRE\SIGRE\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\DEY\Documents\Proyecto SIGRE\SIGRE\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\DEY\Documents\Proyecto SIGRE\SIGRE\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\DEY\Documents\Proyecto SIGRE\SIGRE\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\DEY\Documents\Proyecto SIGRE\SIGRE\CapaNegocio\obj\Debug\CapaNegocio.pdb

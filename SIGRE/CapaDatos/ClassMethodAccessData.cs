@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace CapaNegocio
+using CapaDatos.Entidades;
+namespace CapaDatos
 {
-    public class Class1
+  public class ClassMethodAccessData
     {
     }
 }
